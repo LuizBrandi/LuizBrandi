@@ -20,5 +20,5 @@
   <br>
   <br>
   <div align="center">
-  <img align="center" alt="CSS"  src="https://media.giphy.com/media/kI2hsMDS4zjK7Fbif8/giphy.gif">
+  <img align="center" alt="CSS"  src="https://giphy.com/embed/krkrHAEodHgzP72rTI">
   </div>
