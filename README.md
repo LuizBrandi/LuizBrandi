@@ -21,5 +21,5 @@
   <br>
   <br>
   <div align="center">
-  <img align="center" alt="CSS"  src="https://giphy.com/gifs/disneyplus-krkrHAEodHgzP72rTI">
+  <img align="center" alt="CSS"  src="https://media2.giphy.com/media/YmbxC8Bkj9bZ4yu4Le/giphy.gif?cid=ecf05e47ga7wx84rpn6nx4dv4c94o18xi4bihgepamm1eua0&rid=giphy.gif&ct=g">
   </div>
