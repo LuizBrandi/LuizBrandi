@@ -1,3 +1,5 @@
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">       
 <div align="center">
   <a href="https://github.com/LuizBrandi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizBrandi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -10,12 +12,17 @@
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <i class="devicon-python-plain colored"></i>
+          
 </div>
   <br>
   <br>
 
 - 🔭 Estudante de Ciência da Computação na UFRRJ
-- 🌱 Aprendendo C/C++
+- 📚 Atualmente, estou estudando sobre Desenvolvimento Web e Inteligência artificial
+- 🌱 Desenvolvento alguns projetos utilizando frameworks Web como AdonisJS e Django
+- 💻 Tenho interesse em Desenvolvimento Web, Inteligência Artificial e Data Science.
+- 📧 Contato: luizfilipebrandi@gmail.com
 ##
 <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>
   <br>
