@@ -1,6 +1,6 @@
 - 🔭 Estudante de Ciência da Computação na UFRRJ
 - 📚 Atualmente, estou estudando sobre Desenvolvimento Web e Inteligência artificial
-- 🌱 Desenvolvento alguns projetos utilizando frameworks Web como AdonisJS e Django
+- 🌱 Desenvolvendo alguns projetos utilizando frameworks Web como AdonisJS e Django
 - 💻 Tenho interesse em Desenvolvimento Web, Inteligência Artificial e Data Science.
 - 📧 Contato: luizfilipebrandi@gmail.com
 
